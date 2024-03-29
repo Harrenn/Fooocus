@@ -43,11 +43,11 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "NSFW POV All In One LORA SDXL.safetensors": "https://drive.usercontent.google.com/download?id=1RsJXIJRdgFDIFR50_U0SrslSeog00G3c&export=download&authuser=0&confirm=t&uuid=8c57b6ff-1849-47b1-b0f0-028e78705f69&at=APZUnTV1T1TjE46XJRyVaYwUrMT4%3A1711737179178"
+        "realisticStockPhoto_v20.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v20.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
+        "NSFW POV All In One LORA SDXL.safetensors": "https://drive.usercontent.google.com/download?id=1RsJXIJRdgFDIFR50_U0SrslSeog00G3c&export=download&authuser=0&confirm=t&uuid=8c57b6ff-1849-47b1-b0f0-028e78705f69&at=APZUnTV1T1TjE46XJRyVaYwUrMT4%3A1711737179178"
     },
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }
