@@ -136,7 +136,7 @@ def download_models(default_model, previous_default_models, checkpoint_downloads
     for file_name, url in embeddings_downloads.items():
         load_file_from_url(url=url, model_dir=config.path_embeddings, file_name=file_name)
     for file_name, url in lora_downloads.items():
-        load_file_from_url(url=https://civitai.com/models/144203/nsfw-pov-all-in-one-sdxl-realisticanimewd14-74mb-version-available, model_dir=config.paths_loras[0], file_name=NSFW POV All In One SDXL)
+        load_file_from_url(url="https://civitai.com/models/144203/nsfw-pov-all-in-one-sdxl-realisticanimewd14-74mb-version-available", model_dir=config.paths_loras[0], file_name="cute.safetensor")
 
     return default_model, checkpoint_downloads
 
